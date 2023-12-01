@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Crime Free India</string>
+    <string name="title_activity_info">InfoActivity</string>
+    <string name="large_text">
+        "What is cyber crime?\n\n"
+
+        "Cybercrime, or computer-oriented crime, is a crime that involves a computer and a network."
+        " The computer may have been used in the commission of a crime, or it may be the target."
+        "Cybercrime may threaten a person or a nation's security and financial health.\n"
+        "There are many privacy concerns surrounding cybercrime when confidential information is intercepted or disclosed, lawfully or otherwise"
+        "Crimes targeted against women with a motive to intentionally harm the victim psychologically and physically, using modern telecommunication networks such as internet and mobile phones."
+        "Internationally, both governmental and non-state actors engage in cybercrimes, including espionage, financial theft, and other cross-border crimes.\n"
+        " Cybercrimes crossing international borders and involving the actions of at least one nation-state is sometimes referred to as cyberwarfare.\n\n"
+
+        "Financial fraud crimes\n\n"
+
+        "Computer fraud is any dishonest misrepresentation of fact intended to let another to do or refrain from doing something which causes loss."
+        "In this context, the fraud will result in obtaining a benefit by:\n"
+        "Altering in an unauthorized way. This requires little technical expertise and is a common form of theft by employees altering the data before entry or entering false data, or by entering unauthorized instructions or using unauthorized processes.\n"
+        "Altering, destroying, suppressing, or stealing output, usually to conceal unauthorized transactions. This is difficult to detect.\n"
+        "Altering or deleting stored data.\n"
+        "Other forms of fraud may be facilitated using computer systems, including bank fraud, carding, identity theft, extortion, and theft of classified information."
+        "These types of crime often result in the loss of private information or monetary information.\n\n"
+
+        "Cyberterrorism\n\n"
+
+        "Government officials and information technology security specialists have documented a significant increase in Internet problems and server scans since early 2001. There is a growing concern among government agencies such as the Federal Bureau of Investigations (FBI) and the Central Intelligence Agency (CIA) that such intrusions are part of an organized effort by cyberterrorist foreign intelligence services, or other groups to map potential security holes in critical systems. A cyberterrorist is someone who intimidates or coerces a government or an organization to advance his or her political or social objectives by launching a computer-based attack against computers, networks, or the information stored on them.\n"
+        "Cyberterrorism, in general, can be defined as an act of terrorism committed through the use of cyberspace or computer resources (Parker 1983). As such, a simple propaganda piece on the Internet that there will be bomb attacks during the holidays can be considered cyberterrorism. There are also hacking activities directed towards individuals, families, organized by groups within networks, tending to cause fear among people, demonstrate power, collecting information relevant for ruining peoples' lives, robberies, blackmailing, etc.\n\n"
+
+        "Cyberextortion\n\n"
+
+        "Cyberextortion occurs when a website, e-mail server, or computer system is subjected to or threatened with repeated denial of service or other attacks by malicious hackers. These hackers demand money in return for promising to stop the attacks and to offer "protection". According to the Federal Bureau of Investigation, cybercrime extortionists are increasingly attacking corporate websites and networks, crippling their ability to operate and demanding payments to restore their service.\n"
+        "More than 20 cases are reported each month to the FBI and many go unreported in order to keep the victim's name out of the public domain. Perpetrators typically use a distributed denial-of-service attack. However, other cyberextortion techniques exist such as doxing extortion and bug poaching.\n"
+        "An example of cyberextortion was the attack on Sony Pictures of 2014.\n\n"
+
+        "Cybersex trafficking\n\n"
+
+        "Cybersex trafficking is the transportation of victims and then the live streaming of coerced sexual acts and or rape on webcam."
+        "Victims are abducted, threatened, or deceived and transferred to 'cybersex dens.'\n"
+        "The dens can be in any location where the cybersex traffickers have a computer, tablet, or phone with internet connection. "
+        "Perpetrators use social media networks, videoconferences, dating pages, online chat rooms, apps, dark web sites, and other platforms."
+        "They use online payment systems and cryptocurrencies to hide their identities."
+        "Millions of reports of its occurrence are sent to authorities annually. New legislation and police procedures are needed to combat this type of cybercrime.\n\n"
+
+        "Cyberwarfare\n\n"
+
+        "The U.S. Department of Defense notes that the cyberspace has emerged as a national-level concern through several recent events of geostrategic significance. "
+        "Among those are included, the attack on Estonia's infrastructure in 2007, allegedly by Russian hackers. In August 2008, Russia again allegedly conducted cyber attacks, this time in a coordinated and synchronized kinetic and non-kinetic campaign against the country of Georgia. The December 2015 Ukraine power grid cyberattack has also been attributed to Russia and is considered the first successful cyber attack on a power grid.\n"
+        "Fearing that such attacks may become the norm in future warfare among nation-states, the concept of cyberspace operations impacts and will be adapted by warfighting military commanders in the future.\n\n"
+
+        "Online harassment\n\n"
+
+        "Whereas content may be offensive in a non-specific way, harassment directs obscenities and derogatory comments at specific individuals focusing for example on gender, race, religion, nationality, sexual orientation."
+        "freedom of speech is protected by law in most democratic societies, it does not include all types of speech.\n"
+        "In fact, spoken or written "true threat" speech/text is criminalized because of "intent to harm or intimidate." That also applies for online or any type of network-related threats in written text or speech.\n\n"
+    </string>
+    <string name="small_text">
+        this is abp news
+    </string>
+    <string name="malware_text">
+        This will give the latest malware updates.
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_news">NewsActivity</string>
+    <string name="title_activity_malware">MalwareActivity</string>
+</resources>
