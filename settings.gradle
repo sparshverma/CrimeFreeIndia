@@ -1,0 +1,2 @@
+rootProject.name='Crime Free India'
+include ':app'
